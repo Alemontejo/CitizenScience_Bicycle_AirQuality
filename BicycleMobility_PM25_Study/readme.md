@@ -13,7 +13,7 @@ This notebook performs a complete analysis of PM₂.₅ measurements collected b
 ## Figures & Results
 
 ### 1. Monthly Bicycle Trips and Active Sensors (2022–2024)
-![Figure 1]([https://github.com/Alemontejo/CitizenScience_Bicycle_AirQuality/tree/main/BicycleMobility_PM25_Study](https://github.com/Alemontejo/CitizenScience_Bicycle_AirQuality/blob/main/BicycleMobility_PM25_Study/1.%20Monthly%20Bicycle%20Trips%20and%20Active%20Sensors%20(2022%E2%80%932024).png))
+![Figure 1](https://github.com/Alemontejo/CitizenScience_Bicycle_AirQuality/blob/main/BicycleMobility_PM25_Study/1.%20Monthly%20Bicycle%20Trips%20and%20Active%20Sensors%20(2022%E2%80%932024).png)
 Shows the monthly total of bicycle trips and number of active sensors, revealing seasonal variations and periods of increased activity.
 
 ---
